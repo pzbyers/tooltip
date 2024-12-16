@@ -7,4 +7,5 @@ This project aims to create a tooltip that appears when hovering over a navigati
 ## Links
 
 Repo: https://github.com/pzbyers/tooltip  
-See it in Action: https://pzbyers.github.io/tooltip/
+See it in Action: https://pzbyers.github.io/tooltip/  
+Roadmap Project: https://roadmap.sh/projects/tooltip-ui
