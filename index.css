@@ -51,11 +51,12 @@ body {
     color: #fff;
     text-align: center;
 
-    display: none;
+    opacity:0;
+    transition:.3s opacity;
 }
 
 .item__tooltip:hover:before {
-    display: block;
+    opacity: 1;
 }
 
 .item__tooltip:after {
@@ -70,9 +71,10 @@ body {
     border: 10px solid #709b63;
     border-color: transparent #709b63 transparent transparent;
     
-    display: none;
+    opacity: 0;
+    transition: .3s opacity;
   }
 
   .item__tooltip:hover:before, .item__tooltip:hover:after {
-    display: block;
+    opacity: 1;
   }
