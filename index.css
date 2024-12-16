@@ -24,6 +24,8 @@ body {
 .navigation {
     display: grid;
     justify-content: center;
+    justify-items: center;
+
 
     grid-auto-rows: 1fr;
     grid-template-columns: repeat(3, 100px);
